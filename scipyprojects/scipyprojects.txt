@@ -1,1 +1,4 @@
 scipyprojects
+scipy-projects
+Various Scientific Python Projects 
+
